@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/react-tailwindcss-themoviedb/static/css/main.eb0c5ba4.css",
-    "main.js": "/react-tailwindcss-themoviedb/static/js/main.aea4a411.js",
+    "main.js": "/react-tailwindcss-themoviedb/static/js/main.44fd6cc9.js",
     "index.html": "/react-tailwindcss-themoviedb/index.html",
     "main.eb0c5ba4.css.map": "/react-tailwindcss-themoviedb/static/css/main.eb0c5ba4.css.map",
-    "main.aea4a411.js.map": "/react-tailwindcss-themoviedb/static/js/main.aea4a411.js.map"
+    "main.44fd6cc9.js.map": "/react-tailwindcss-themoviedb/static/js/main.44fd6cc9.js.map"
   },
   "entrypoints": [
     "static/css/main.eb0c5ba4.css",
-    "static/js/main.aea4a411.js"
+    "static/js/main.44fd6cc9.js"
   ]
 }
